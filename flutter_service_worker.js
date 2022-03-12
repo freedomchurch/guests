@@ -19,9 +19,9 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"index.html": "1d496f16a527818ab5d0dd818d82be48",
-"/": "1d496f16a527818ab5d0dd818d82be48",
-"main.dart.js": "5c6b72dd703005ae86fbde01e8052baf"
+"index.html": "a1c64e2e46d6bdc6e6731b5853ae05b7",
+"/": "a1c64e2e46d6bdc6e6731b5853ae05b7",
+"main.dart.js": "9547a1ecad272a14194b7c71e20253e2"
 };
 
 // The application shell files that are downloaded before a service worker can
